@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Main function:
+// Main function2:
 int main (void) {
     
     std::cout << "Testing more stuff part 2" << "\n";
